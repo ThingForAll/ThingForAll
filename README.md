@@ -1,20 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=32&duration=3500&pause=1000&color=B8860B&center=true&vCenter=true&width=700&height=70&lines=THINGFORALL;AI+ENGINEER;FORGED+IN+CODE+%26+SHADOW" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,35:2b1055,70:4b0082,100:0d0d0d&height=220&section=header&text=THE%20ARCHIVES&fontSize=55&fontColor=B8860B&fontAlignY=40&animation=fadeIn&desc=Chronicles%20of%20a%20Code%20Forger&descAlignY=58&descSize=18&descColor=8b8b9e" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:2b1055,100:0d0d0d&height=180&section=header&text=&fontSize=0" width="100%"/>
-
-</div>
-
-<div align="center">
-
-```
-              ⚔️  ══════════════════════════  ⚔️
-                     T H E   A R C H I V E S
-              ⚔️  ══════════════════════════  ⚔️
-```
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=600&size=26&duration=3000&pause=800&color=B8860B&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%E2%9A%94%EF%B8%8F+AI+ENGINEER+IN+THE+MAKING;%F0%9F%8F%B0+FULL-STACK+SPELLCASTER;%F0%9F%94%AE+WEB+%C2%B7+MOBILE+%C2%B7+DESKTOP+%C2%B7+macOS" alt="Typing SVG" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:2b1055,100:0d0d0d&height=3&width=100%25" width="100%"/>
 
 <br>
 
@@ -24,7 +16,7 @@
 
 Seorang penempa kode yang berjalan di antara dunia **web, mobile, dan desktop** — kini mengarahkan pandangan ke arah yang lebih dalam: **AI Engineering**. Setiap repositori di sini adalah bab dari perjalanan panjang menuju penguasaan kecerdasan buatan.
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:2b1055,100:0d0d0d&height=3&width=100%25" width="100%"/>
 
 ## ⚜️ Ranah Keahlian
 
@@ -49,7 +41,7 @@ Seorang penempa kode yang berjalan di antara dunia **web, mobile, dan desktop** 
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:2b1055,100:0d0d0d&height=3&width=100%25" width="100%"/>
 
 ## 📜 Kronik Aktivitas
 
@@ -58,13 +50,38 @@ Seorang penempa kode yang berjalan di antara dunia **web, mobile, dan desktop** 
 <img src="https://github-readme-stats.vercel.app/api?username=ThingForAll&show_icons=true&theme=dracula&bg_color=0d0d0d&title_color=B8860B&icon_color=7b2ff7&text_color=c9c9c9&border_color=2b1055&hide_border=false" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThingForAll&theme=dark&background=0d0d0d&border=2b1055&ring=B8860B&fire=8b0000&currStreakLabel=B8860B" width="48%" />
 
-<br>
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThingForAll&layout=compact&theme=dracula&bg_color=0d0d0d&title_color=B8860B&text_color=c9c9c9&border_color=2b1055&hide_border=false" width="55%" />
+<!-- Grafik ini menggambar garis aktivitasnya secara animasi tiap kali dimuat -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThingForAll&theme=dracula&bg_color=0d0d0d&color=B8860B&line=8b0000&point=c9c9c9&area=true&hide_border=true" width="90%" />
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:2b1055,100:0d0d0d&height=3&width=100%25" width="100%"/>
+
+## 🏆 Piala Peperangan
+
+<div align="center">
+
+<!-- Setiap piala muncul dengan animasi flip-in saat halaman dimuat -->
+<img src="https://github-profile-trophy.vercel.app/?username=ThingForAll&theme=dracula&no-frame=true&no-bg=false&margin-w=8&column=4" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:2b1055,100:0d0d0d&height=3&width=100%25" width="100%"/>
+
+## 🐍 Sang Ular Kegelapan
+
+<div align="center">
+
+<!-- Animasi ular ini "memakan" kotak-kotak kontribusimu secara real, bukan gif statis -->
+<img src="https://raw.githubusercontent.com/ThingForAll/ThingForAll/output/dark-castle-snake.svg" width="90%" alt="snake animation" />
+
+</div>
+
+> ⚠️ **Setup sekali jalan diperlukan** — animasi ular ini butuh GitHub Action kecil di repo profil kamu. Sudah aku siapkan file workflow-nya (`snake.yml`), tinggal upload ke `.github/workflows/`. Setelah run pertama, animasinya otomatis update tiap hari.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:2b1055,100:0d0d0d&height=3&width=100%25" width="100%"/>
 
 ## ⚱️ Filosofi
 
@@ -75,7 +92,7 @@ Seorang penempa kode yang berjalan di antara dunia **web, mobile, dan desktop** 
  dan setiap perang adalah proyek yang di-deploy."
 ```
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:2b1055,100:0d0d0d&height=3&width=100%25" width="100%"/>
 
 ## 🕯️ Hubungi Sang Penjaga Kastil
 
@@ -83,12 +100,15 @@ Seorang penempa kode yang berjalan di antara dunia **web, mobile, dan desktop** 
 
 <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=B8860B" />
 
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=ThingForAll&label=Jiwa%20yang%20singgah&color=2b1055&style=for-the-badge&labelColor=0d0d0d" />
+
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,35:4b0082,70:2b1055,100:0d0d0d&height=150&section=footer&animation=fadeIn" width="100%"/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:2b1055,100:0d0d0d&height=100&section=footer" width="100%"/>
 
 *⚔️ "In the darkness of the terminal, the code shall find its light." ⚔️*
 
