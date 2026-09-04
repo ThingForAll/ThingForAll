@@ -64,9 +64,11 @@ Seorang penempa kode yang berjalan di antara dunia **web, mobile, dan desktop** 
 <div align="center">
 
 <!-- Setiap piala muncul dengan animasi flip-in saat halaman dimuat -->
-<img src="https://github-profile-trophy.vercel.app/?username=ThingForAll&theme=dracula&no-frame=true&no-bg=false&margin-w=8&column=4" />
+<img src="https://github-profile-trophy-winning.vercel.app/?username=ThingForAll&theme=dracula&no-frame=true&no-bg=false&margin-w=8&column=4" />
 
 </div>
+
+> 💡 Trophy & activity graph di atas ditarik dari layanan gratis pihak ketiga. Kalau sewaktu-waktu gambarnya kelihatan rusak (bukan karena setup kamu salah, tapi server mereka lagi overload), biasanya normal lagi dalam beberapa jam. Kalau mau paksa refresh cache GitHub, edit README sedikit lalu commit ulang.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:2b1055,100:0d0d0d&height=3&width=100%25" width="100%"/>
 
